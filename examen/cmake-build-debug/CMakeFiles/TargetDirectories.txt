@@ -1,0 +1,3 @@
+/Users/tudorr/CLionProjects/examen/cmake-build-debug/CMakeFiles/examen.dir
+/Users/tudorr/CLionProjects/examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tudorr/CLionProjects/examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
